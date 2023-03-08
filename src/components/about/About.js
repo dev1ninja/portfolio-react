@@ -21,7 +21,7 @@ import CometIcon from '../../images/portfolio-icons/comet-icon.png';
 import GearIconDracula from '../../images/portfolio-icons/gear-icon-dracula.png';
 import ArtIconDracula from '../../images/portfolio-icons/art-icon-dracula.png';
 import CometIconDracula from '../../images/portfolio-icons/comet-icon-dracula.png';
-import ColinImage from '../../images/no-sunglasses-pilot.JPG';
+import ColinImage from '../../images/roman.jpg';
 import BlackCatIcon from '../../images/link-icons/cat-icon-black.png';
 import BusinessIcon from '../../images/link-icons/business-icon.png';
 import BasketballIcon from '../../images/link-icons/basketball-icon.png';
@@ -84,12 +84,12 @@ function About() {
             </AboutParagraph>
             <AboutIcons>
               <IconLink
-                href="https://github.com/cjmaret"
+                href="https://github.com/rskok7"
                 target="_blank"
                 rel="noreferrer">
                 <PlacesIcon src={BlackCatIcon} alt="" />
               </IconLink>
-              <IconLink
+              {/* <IconLink
                 href="https://www.linkedin.com/in/colin-maretsky/"
                 target="_blank"
                 rel="noreferrer">
@@ -100,7 +100,7 @@ function About() {
                 target="_blank"
                 rel="noreferrer">
                 <PlacesIcon src={BasketballIcon} alt="" />
-              </IconLink>
+              </IconLink> */}
             </AboutIcons>
           </AboutMe>
         </AboutInfo>

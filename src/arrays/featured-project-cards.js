@@ -9,7 +9,8 @@ const featuredProjectCards = [
     description:
       'A fundraising site where users can create and manage fundraisers, or donate to fundraisers using credit card handling',
     pageLink: 'https://gofundyourself.lol',
-    githubLink: 'https://github.com/cjmaret/gofundyourself-frontend',
+    githubLink: '',
+    // githubLink: 'https://github.com/cjmaret/gofundyourself-frontend',
   },
   {
     id: 2,
@@ -18,7 +19,8 @@ const featuredProjectCards = [
     description:
       'A video portfolio for a NYC-based filmmaking company, with a cinematic style and dynamic content management',
     pageLink: 'https://goofy-jang-9e020a.netlify.app',
-    githubLink: 'https://github.com/cjmaret/confectionery',
+    githubLink: '',
+    // githubLink: 'https://github.com/cjmaret/confectionery',
   },
 ];
 

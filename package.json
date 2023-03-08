@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://colinmaretsky.com",
+  "homepage": "https://roman-skok.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo 'https://colinmaretsky.com' > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo 'https://roman-skok.vercel.app/' > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
