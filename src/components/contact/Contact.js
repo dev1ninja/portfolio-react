@@ -9,7 +9,7 @@ function Contact() {
     <ContactSection id='contact'>
       <ContactTitle>Interested in working on a project together?</ContactTitle>
       <ContactSubtitle>Drop me a line, and let's see what we can build.</ContactSubtitle>
-      <ContactButton type='submit' href='mailto:cjmaret@gmail.com' draculaMode={draculaMode}>
+      <ContactButton type='submit' href='mailto:romanskok7@gmail.com' draculaMode={draculaMode}>
         Send me an email
       </ContactButton>
     </ContactSection>
