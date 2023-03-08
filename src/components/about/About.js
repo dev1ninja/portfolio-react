@@ -11,16 +11,8 @@ import {
   AboutImage,
   AboutMe,
   AboutParagraph,
-  AboutAnimationLink,
   IconLink,
   PlacesIcon,
-  AboutLists,
-  ListTypeLanguages,
-  ListTypeLearning,
-  ListTypeTools,
-  ListInteriorTitle,
-  ListInteriorList,
-  ListInteriorListItem,
   AboutIconDracula,
 } from './styledAbout';
 import GearIcon from '../../images/portfolio-icons/gear-icon.png';
