@@ -12,6 +12,8 @@ function Contact() {
       <ContactButton type='submit' href='mailto:romanskok7@gmail.com' draculaMode={draculaMode}>
         Send me an email
       </ContactButton>
+      <ContactSubtitle>Address: st. Radyshcheva 7B, Kyiv 03124 Ukraine</ContactSubtitle>
+      <ContactSubtitle>Phone: +380 978402071</ContactSubtitle>
     </ContactSection>
   );
 }

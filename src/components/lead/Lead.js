@@ -22,7 +22,7 @@ function Lead() {
         <LeadContainer>
           <LeadImageRegular src={AnimeRegular} alt='' draculaMode={draculaMode} />
           <LeadImageDracula src={AnimeDracula} alt='' draculaMode={draculaMode} />
-          <LeadTitle className='lead__title'>Hi, I'm Roman.</LeadTitle>
+          <LeadTitle className='lead__title'>Hi, I'm Roman Skok.</LeadTitle>
           <LeadSubtitle className='lead__subtitle'>I like bringing ideas to life.</LeadSubtitle>
         </LeadContainer>
       </LeadSection>
